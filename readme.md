@@ -57,3 +57,10 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 <br />
+
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/b3998f94-696c-4e6f-aa2b-fd4321de64b9" />
+<img width="1243" alt="image" src="https://github.com/user-attachments/assets/1053ab2a-d03b-42a5-b5b8-591188d4a358" />
+<img width="506" alt="image" src="https://github.com/user-attachments/assets/17a7bcac-b414-44bd-92b9-826483a5f50e" />
+
+
+
