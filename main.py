@@ -9,7 +9,7 @@ from db.execute import execute_sql_script
 results = {}
 db_name = "database.db"
 input_file = "data/val_round_details_sample.csv"
-sql_scripts_path = "/Users/josimardossantosjunior/Code/riotgames_case/sql_scripts"
+sql_scripts_path = "sql_scripts"
 sql_files = sorted([f for f in os.listdir(sql_scripts_path) if f.endswith(".sql")])
 
 # get connection
